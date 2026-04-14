@@ -1,4 +1,4 @@
-# TDSyncStrudel
+# TDStrudelSync
 
 TDStrudelSync es un componente para TouchDesigner que permite sincronizar visuales en tiempo real con eventos generados desde Strudel usando WebSockets.
 
